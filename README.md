@@ -10,5 +10,4 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mrabhin03&theme=apprentice&hide_border=false" style='max-width:70%'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrabhin03&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" style='max-width:70%' />
-</p>
+  
